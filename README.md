@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-Initially selected Obective-C instead of Swift as the language. This casued me about 30 minutes delay to figure out why the walk-through didn't match
+Initially selected Obective-C instead of Swift as the language. This caused me about 30 minutes delay to figure out why the walk-through didn't match
 
 ## License
 
