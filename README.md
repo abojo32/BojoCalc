@@ -22,7 +22,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-![tip calc gif](tip calc demo.gif)
+![tip calc gif](Tip Calc Demo.gif)
 
 Here's a walkthrough of implemented user stories:
 
