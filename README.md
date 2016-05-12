@@ -22,6 +22,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
+![tip calc gif](tip calc demo.gif)
+
 Here's a walkthrough of implemented user stories:
 
 <a href="/course_images/ios_for_designers/name%20of%20your%20file%20in%20the%20repo.gif" target="_blank"><img src='/course_images/ios_for_designers/name%20of%20your%20file%20in%20the%20repo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
