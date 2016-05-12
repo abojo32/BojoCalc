@@ -10,9 +10,14 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    //User Input
     @IBOutlet weak var billField: UITextField!
+    
+    //Labels
     @IBOutlet weak var tipLabel: UILabel!
     @IBOutlet weak var totalLabel: UILabel!
+    
+    
     @IBOutlet weak var tipControl: UISegmentedControl!
     
     override func viewDidLoad() {
